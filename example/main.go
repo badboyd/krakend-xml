@@ -10,7 +10,7 @@ import (
 	"github.com/luraproject/lura/proxy"
 	"github.com/luraproject/lura/router/gin"
 
-	xml "github.com/devopsfaith/krakend-xml"
+	xml "github.com/badboyd/krakend-xml"
 )
 
 func main() {
