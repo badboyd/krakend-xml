@@ -7,7 +7,7 @@ require (
 	github.com/devopsfaith/krakend-xml v1.4.0
 	github.com/gin-gonic/gin v1.7.4
 	github.com/luraproject/lura v1.4.1
-	golang.org/x/net v0.0.0-20210908191846-a5e095526f91
+	golang.org/x/net v0.1.0
 )
 
 require (
@@ -24,8 +24,8 @@ require (
 	github.com/modern-go/reflect2 v0.0.0-20180701023420-4b7aa43c6742 // indirect
 	github.com/ugorji/go/codec v1.1.7 // indirect
 	github.com/valyala/fastrand v1.0.0 // indirect
-	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9 // indirect
-	golang.org/x/sys v0.0.0-20210423082822-04245dca01da // indirect
-	golang.org/x/text v0.3.6 // indirect
+	golang.org/x/crypto v0.1.0 // indirect
+	golang.org/x/sys v0.1.0 // indirect
+	golang.org/x/text v0.4.0 // indirect
 	gopkg.in/yaml.v2 v2.2.8 // indirect
 )
